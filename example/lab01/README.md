@@ -1,4 +1,4 @@
-# Example lab01
+# Example lab01 - Single Container
 
 ## Build docker image
 ```bash
