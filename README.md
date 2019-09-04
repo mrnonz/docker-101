@@ -1,7 +1,7 @@
 # Docker 101
 
 ## Contents
-* [Example](./example/README.md)
+* [Example](./example/)
 
 
 ## Maintainer
