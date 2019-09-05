@@ -17,6 +17,11 @@ Inside curl's container
 $ curl myweb  
 ```
 
+## Running web server mapping port 
+```bash
+docker run -d --network network03 -p 5000:80 --name myweb-2 nginx:alpine
+```
+
 ## Check docker container process
 ```bash
 docker ps
